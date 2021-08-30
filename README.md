@@ -1,2 +1,1 @@
-# Dockerfile-grafana
-grafana dockerfile
+
